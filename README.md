@@ -7,3 +7,7 @@ Please consult [CONTRIBUTING.md](./CONTRIBUTING.md), [CONFIDENTIALITY.md](./CONF
 ## Reporting issues
 
 Please report issues at <https://github.com/SMPTE/rp428-4/issues> or at the 21DC Chairs <21dc-chair@smpte.org>.
+
+## Project details
+
+Revision project approved and open.
